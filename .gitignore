@@ -1,0 +1,15 @@
+bin/*
+!bin/.keep
+
+
+# Editor directories and files
+.idea/
+.vscode/
+*__debug_bin
+.history
+
+# Mac OS X files
+.DS_Store
+
+# Environments
+.env
